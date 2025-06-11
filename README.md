@@ -40,10 +40,7 @@ Cada comparación cuenta con los siguientes gráficos:
 ---
 
 ## 📷 Capturas del Dashboard
-Diagrama de Entidad-Relacion:
-![acciones](https://github.com/user-attachments/assets/557b705e-e67a-4e0c-85e3-54875ebf51cd)
 
-Perspectivas:
 ![AMZNvsMELI](https://github.com/user-attachments/assets/692b815a-8f90-464d-9473-36074b4272aa)
 ![AMDvsNVDA](https://github.com/user-attachments/assets/699f8e37-934e-4385-a698-bf1338c38915)
 ![CVXvsXOM](https://github.com/user-attachments/assets/51d8c90a-12d6-4a5f-b8d5-e87f3a5c4850)
